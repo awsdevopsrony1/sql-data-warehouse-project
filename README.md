@@ -1,5 +1,4 @@
-# sql-data-warehouse-project
-Building a modern data warehouse using SQL Server with ETL pipelines, data modeling, and analytics solutions.
+
 # 🏗️ SQL Data Warehouse Project
 
 > A hands-on data engineering project where I designed and built a modern data warehouse from scratch using SQL Server covering data ingestion, transformation, modeling, and analytics.
