@@ -172,6 +172,5 @@ The biggest lesson: **documentation is not optional**. A well-documented warehou
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Uzair%20Akhtar-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/uzair08)
-[![Email](https://img.shields.io/badge/Email-uzair.akhtar501@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:uzair.akhtar501@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-HafizUzairAkhtar-black?style=for-the-badge&logo=github)](https://github.com/HafizUzairAkhtar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sourabh%20Bhattacharya-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sourabh-bhattacharya-54b5bb151)
+[![GitHub](https://img.shields.io/badge/GitHub-awsdevopsrony1-black?style=for-the-badge&logo=github)](https://github.com/awsdevopsrony1)
